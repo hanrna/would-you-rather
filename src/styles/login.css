@@ -1,0 +1,9 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-select {
+    width: 100%;
+    height: 30px;
+}

@@ -1,0 +1,31 @@
+.notfound {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.notfound-404 {
+    position: relative;
+    height: 180px;
+}
+
+.notfound .notfound-404 h1 {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 165px;
+    margin: 0px;
+}
+
+
+.notfound .notfound-404 h1>span {
+    color: #00b7ff;
+}
